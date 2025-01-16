@@ -1,0 +1,11 @@
+Model Information:
+* title:	aestetic computer
+* source:	https://sketchfab.com/3d-models/aestetic-computer-fe39179ab0964133b4298c53f0d2bbc3
+* author:	Kyyy_24 (https://sketchfab.com/luckyardrianto27)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "aestetic computer" (https://sketchfab.com/3d-models/aestetic-computer-fe39179ab0964133b4298c53f0d2bbc3) by Kyyy_24 (https://sketchfab.com/luckyardrianto27) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
